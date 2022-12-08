@@ -1,0 +1,11 @@
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\bin\Debug\Munar_DIP.exe.config
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\bin\Debug\Munar_DIP.exe
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\bin\Debug\Munar_DIP.pdb
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.csproj.AssemblyReference.cache
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.Form1.resources
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.Properties.Resources.resources
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.csproj.GenerateResource.cache
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.csproj.CoreCompileInputs.cache
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.exe
+C:\Users\kath\Desktop\Munar_DIP\Munar_DIP\obj\Debug\Munar_DIP.pdb
